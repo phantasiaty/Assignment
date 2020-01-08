@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FITNESS GO</string>
     <string name="tab1">WORKOUT</string>
-    <string name="tab2">STANDINGS</string>
+    <string name="tab2">STATS</string>
     <string name="tab3">PROFILE</string>
     <string name="username">Username</string>
     <string name="email">Email</string>

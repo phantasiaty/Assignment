@@ -55,4 +55,6 @@ dependencies {
 
     implementation 'me.zhanghai.android.materialprogressbar:library:1.4.2'
 
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.0'
+
 }
