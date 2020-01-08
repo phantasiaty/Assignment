@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FITNESS GO</string>
+    <string name="tab1">WORKOUT</string>
+    <string name="tab2">STANDINGS</string>
+    <string name="tab3">PROFILE</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="signInRedirect">Do not have an account?</string>
+    <string name="signUpRedirect">Already have an account?</string>
+    <string name="timer">Timer</string>
+    <string name="logout">Log Out</string>
+    <string name="txtEmail">Email</string>
+    <string name="send_password_reset_email">Reset Password with Email</string>
+    <string name="fpassword">Forgot password?</string>
+    <string name="emailV">Email Verified</string>
+    <string name="userProfilePic">Profile Picture</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="signOut">Sign Out</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="register">REGISTER</string>
+    <string name="reset">Please reset your password by entering your email</string>
+    <string name="saveChanges">SAVE CHANGES</string>
+    <string name="workoutName">Workout Name</string>
+    <string name="workoutDescription">Workout Description</string>
+    <string name="fitness">Fitness is one step away</string>
+    <string name="title_activity_timer">Timer</string>
+    <string name="link">Link</string>
+    <string name="zero">0</string>
+    <string name="steps">Steps</string>
+</resources>

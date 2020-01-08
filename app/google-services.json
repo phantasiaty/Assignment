@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "900531235152",
+    "firebase_url": "https://tablayout-cc045.firebaseio.com",
+    "project_id": "tablayout-cc045",
+    "storage_bucket": "tablayout-cc045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900531235152:android:8a8f580c44f901e1a2e455",
+        "android_client_info": {
+          "package_name": "com.example.tablayout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900531235152-df7hiupddhhchl4ktt065lam9gpjeo05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tablayout",
+            "certificate_hash": "f2a069dfadb90bfd7c7002cc112f0e4ade874a11"
+          }
+        },
+        {
+          "client_id": "900531235152-qrbrg9pdf9sa57th6nmmhlfl962ocsku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tablayout",
+            "certificate_hash": "02a570cdb84c9562966c645e7552ee01b0ee7676"
+          }
+        },
+        {
+          "client_id": "900531235152-sqd1noolhapls5vjl17spidvbr2fu62g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0lkvfFD_W81sAP_Ls2GryaoMJV7gSCaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900531235152-sqd1noolhapls5vjl17spidvbr2fu62g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
